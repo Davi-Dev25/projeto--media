@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: black;
+    background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100vw;
+    height: 100vw;
+
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#dispositivo{
+    height: 680px;
+    width: 300px;
+    background:url(../imagens/cell.jpg) no-repeat;
+    display: flex;
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform:translate(-50% -50% )  ;
+
+}

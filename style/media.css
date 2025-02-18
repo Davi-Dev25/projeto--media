@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@media screen and (min-width:689px) and (max-width:967px){
+
+    #dispositivo{
+    background:url(../imagens/tablet.jpg) no-repeat ;
+    height: 800px;
+    width: 400px;
+    border-radius: 5px;
+    }
+
+}
