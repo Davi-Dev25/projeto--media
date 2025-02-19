@@ -1,12 +1,21 @@
 @charset "UTF-8";
 
-@media screen and (min-width:689px) and (max-width:967px){
+@media screen and (min-width:689px) and (max-width:968px){
 
     #dispositivo{
-    background:url(../imagens/tablet.jpg) no-repeat ;
-    height: 800px;
-    width: 400px;
-    border-radius: 5px;
+    background:url(../imagens/tablet2.jpg) no-repeat ;
+    height: 540px;
+    width: 510px;
+    }
+
+}
+
+@media screen and (min-width:968px){
+
+    #dispositivo{
+    background:url(../imagens/pc2.jpg) no-repeat ;
+    height: 400px;
+    width: 480px;
     }
 
 }

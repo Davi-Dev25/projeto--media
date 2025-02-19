@@ -17,24 +17,23 @@ body{
 }
 
 main{
-    width: 100vw;
-    height: 100vh;
+
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 #dispositivo{
-    height: 680px;
+    height: 533px;
     width: 300px;
     width:280px;
-    background:url(../imagens/cell.jpg) no-repeat;
+    background:url(../imagens/cell2.jpg) no-repeat;
     display: flex;
     border-radius: 20px;
 
     position: absolute;
     left: 50%;
     top: 50%;
-    transform:translate(-50% -50% )  ;
+    transform:translate(-50%, -50% )  ;
 
 }
