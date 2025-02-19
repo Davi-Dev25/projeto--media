@@ -27,8 +27,10 @@ main{
 #dispositivo{
     height: 680px;
     width: 300px;
+    width:280px;
     background:url(../imagens/cell.jpg) no-repeat;
     display: flex;
+    border-radius: 20px;
 
     position: absolute;
     left: 50%;
