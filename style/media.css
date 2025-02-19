@@ -8,6 +8,16 @@
     width: 510px;
     }
 
+    iframe{
+        width: 435px;
+        height: 460px;
+        position: absolute;
+        border-radius: 0px;
+
+        left: 39px;
+        top: 68px;
+    }
+
 }
 
 @media screen and (min-width:968px){

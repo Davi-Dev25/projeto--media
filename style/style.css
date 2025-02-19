@@ -37,3 +37,18 @@ main{
     transform:translate(-50%, -50% )  ;
 
 }
+
+iframe{
+    width: 245px;
+    height: 513px;
+    position: absolute;
+    border-radius: 20px;
+
+    top: 12px;
+    left: 16px;
+
+}
+img{
+    width: 50px;
+    border-radius: 50%;
+}
